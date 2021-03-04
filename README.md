@@ -11,4 +11,7 @@ _What is the current trend for resident population in Baltimore and what would b
 Extracting the public data sets from FRED Economic Research (https://fred.stlouisfed.org/series/MDBALT5POP), I was able to view and analyze the resident population in Baltimore from 1970-2019.
 ![alt text](https://github.com/justinjiholee/baltimore-population-trend/blob/main/Baltimore%20Population.png)
 
-With the Excel data sets, I was able to create a cluster chart to see the relationship between the dates and population in Baltimore. Using simple linear regression, I produced the best fit line with an equation of y=-0.017x + 1304.3 and the R-squared value of 0.9414. This indicates that the population has a decreasing trend and it could explain 94% of the variance of Baltimore population. The standard error of residuals is 22.814, meaning that about 22,814 people above or below the best fit line is within 68% of the data.
+With the Excel data sets, I was able to create a cluster chart to see the relationship between the number of years passed since 1970 and population in Baltimore. 
+![alt text](
+
+Using simple linear regression, I produced the best fit line with an equation of y=-4.4266x + 836.31 and the R-squared value of 0.6021. This indicates that the population has a decreasing trend and it could explain 60% of the variance of Baltimore population. The standard error of residuals is 59.424, meaning that about 59,424 people above or below the best fit line is within 68% of the data.
