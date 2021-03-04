@@ -12,7 +12,7 @@ Extracting the public data sets from FRED Economic Research (https://fred.stloui
 ![alt text](https://github.com/justinjiholee/baltimore-population-trend/blob/main/Baltimore%20Population.png)
 ## Baltimore Population Trend and Prediction
 With the Excel data sets, I was able to create a cluster chart to see the relationship between the number of years passed since 1970 and population in Baltimore. 
-![alt text](https://github.com/justinjiholee/baltimore-population-trend/blob/main/Baltimore%20Population%20Trend.png)
+![alt text](https://github.com/justinjiholee/baltimore-population-trend/blob/main/Baltimore%20Population%20Trend%201.png)
 
 Using simple linear regression, I produced the best fit line with an equation of y=-6.206x + 869.6 and the R-squared value of 0.9414. This indicates that the population has a decreasing trend and it could explain 94% of the variance of Baltimore population. The standard error of residuals is 22.814, meaning that about 22,814 people above or below the best fit line is within 68% of the data.
 
