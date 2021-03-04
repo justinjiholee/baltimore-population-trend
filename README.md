@@ -2,7 +2,7 @@
 Research and analysis on the current trend for resident population in Baltimore City,MD
 
 ## Background
-Baltimore City in Maryland currently has an estimated population of 600,000 people. The population in the United States has been gradually decreasing over the past few decades due to lower birth rates and new policies limiting immigration. I have decided to analyze to population trend in Baltimore to determine if the population in Baltimore has also been declining and predict the future population in the city based on the data sets. 
+Baltimore City in Maryland currently has an estimated population of 600,000 people. The population in Baltimore has been gradually decreasing over the past few decades as the population was about 800,000 in the 1970s. There could be various factors for this decline in population such as lower birth rates, but as Baltimore is ranked 4th in the most dangerous cities in the United States by CBS, I wanted to see if the number of homicides contributed to this. I have decided to analyze the population trend in Baltimore and determine if the the number of homicides has any relationship with the population. Also, I will predict the future population in the city based on the data sets. 
 
 ## Business Question
 _What is the current trend for resident population in Baltimore and what would be an estimated population in the city in the near future?_
