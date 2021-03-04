@@ -8,3 +8,4 @@ Baltimore City in Maryland currently has an estimated population of 600,000 peop
 _As the resident population in Baltimore is declining every year, how would the population in Baltimore change in the near future?_
 
 ## Baltimore Population (1970-2019)
+![alt text]
