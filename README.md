@@ -26,3 +26,7 @@ With this data, I was able to predict the population in Baltimore for 2025, 2030
 
 ## Baltimore Population and Number of Homicides
 ![alt text](https://github.com/justinjiholee/baltimore-population-trend/blob/main/Data%20Analysis.png)
+Using multiple regression methods through excel, I wanted to see if the population is affected by the number of homicides. 
+The data suggests that the predicted population = 808.314 -0.0254 (Number of Homicides) -5.274(Number of years passed).
+
+
