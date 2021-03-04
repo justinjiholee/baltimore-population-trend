@@ -17,6 +17,9 @@ With the Excel data sets, I was able to create a cluster chart to see the relati
 Using simple linear regression, I produced the best fit line with an equation of y=-4.4266x + 836.31 and the R-squared value of 0.6021. This indicates that the population has a decreasing trend and it could explain 60% of the variance of Baltimore population. The standard error of residuals is 59.424, meaning that about 59,424 people above or below the best fit line is within 68% of the data.
 
 With this data, I was able to predict the population in Baltimore for 2025, 2030, and 2040.
+
 2025: 588,420
+
 2030: 566,287
+
 2040: 522,021
