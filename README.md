@@ -25,4 +25,4 @@ With this data, I was able to predict the population in Baltimore for 2025, 2030
 2040: 435,480
 
 ## Baltimore Population and Number of Homicides
-
+![alt text](https://github.com/justinjiholee/baltimore-population-trend/blob/main/Data%20Analysis.png)
